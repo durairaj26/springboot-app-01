@@ -1,5 +1,7 @@
 # springboot-app-01
 
-Hi
+## Students Deatails Maintenance project
 
-Hello
+Database: MySQL
+-In this project we can perform CRUD operation.
+-We can insert students details, remove, view and update details.
